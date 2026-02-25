@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="GifImporter.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="GifForUnity.csproj" />
+</Solution>
